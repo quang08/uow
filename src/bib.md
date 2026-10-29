@@ -99,25 +99,3 @@ Said, E. W. (1978) *Orientalism*. New York: Pantheon Books. [Named in P7 but not
 **Relayed originals.** The usual Harvard rule cites only what you consulted, which would mean listing Kondo and Marra-Alvarez alone and dropping Bhabha, Duka and Morris from the bibliography while keeping them in the in-text relay form. If your department requires relayed originals, the five entries above are ready. Decide once and apply throughout.
 
 **Said.** Still named in P7 without an in-text citation, which under strict Harvard leaves an entry unsupported. Either add a citation to P7 or remove the entry. Akutagawa has the stronger case for keeping, since the story is primary material the essay discusses rather than a framework it invokes in passing.
-
-## 3. Consequences of the Loti decision, now applied
-
-Citing the 1910 edition is right, since the page range depends on it, but it propagates further than the bibliography.
-
-**Done:** §5's three in-text citations are changed from `(Loti, 1889, p. 00)` to `(Loti, 1910, p. 00)`.
-
-**Your call, not changed:** §1's third paragraph names "Loti's account of 1889" in prose. That remains true as a statement about when the work first appeared, but it now sits beside citations reading 1910, which a careful marker may query. Three options: leave it, since the prose states a fact about the work rather than a citation; change the prose to "Loti's account, first published in 1889"; or use the reprint form `Loti, P. (1889/1910)` throughout, which carries both dates in every citation at the cost of a heavier in-text.
-
-**Rosenfeld's translation stays named**, because §5's first paragraph quotes "unrivaled in feats of dexterity" from it. The plan's instruction was to cite the original and name the translation, and that is what the entry above does. The translation is used, not merely consulted.
-
-## 4. One residual check on Séguret
-
-The citation is now complete, but the attribution of its *content* rests on a step we have not seen. The essay uses Séguret for a remark by Kawakubo about the debut being a game to establish the house's position, and the record confirming the citation is a bibliography attached to an encyclopedia entry on Issey Miyake. The plural title 'Les Japonais' makes a piece covering the designers collectively likely, which would naturally include Kawakubo, so this is probably fine.
-
-Worth a look at the article itself if you can reach it, since P13's closing movement is the only thing depending on it and the clause can be cut without damage if the remark turns out to be Miyake's rather than Kawakubo's.
-
-## 5. Optional precision in §6
-
-The MFA title is *Illustration of the Ladies' Charity Bazaar at the Rokumeikan*. §6's first paragraph currently describes the print as "depicting a charity bazaar held at the hall", which could become "a ladies' charity bazaar" to match the record. Minor, and only worth doing if the figure caption will quote the full title.
-
-Note also that the MFA's authority form is **Yōshū Chikanobu**, not Toyohara, which corrects what I recorded in the previous pass. The essay's prose uses the surname alone throughout, so no change is needed in the text itself.
